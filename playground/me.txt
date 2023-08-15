@@ -1,0 +1,5 @@
+{{#user}
+Name: MD Soyeb
+Skills: HTML, CSS, SCSS, Git, JS, Next.js
+Email: shoaibmd354@gmail.com
+{{/user}}
